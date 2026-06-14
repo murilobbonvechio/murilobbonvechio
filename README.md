@@ -27,6 +27,10 @@
 "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/murilo-bovo-bonvechio-b80090414" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-   ![Snake animation](https://raw.githubusercontent.com/murilobbonvechio/murilobbonvechio/output/github-contribution-grid-snake.svg)
-  
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/murilobbonvechio/murilobbonvechio/blob/output/github-snake-dark.svg)
 </div>
