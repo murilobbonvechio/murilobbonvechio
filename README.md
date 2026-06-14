@@ -3,15 +3,17 @@
 - 🎓 Acadêmico de Engenharia de Software
 - 📚 Atualmente aprendendo:
   - Lógica de Programação
+  - JavaScript
   - Python
   - SQL
   
 ---
 ## Estatísticas
-<div>
-  <a href="https://github.com/murilobbonvechio"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilobbonvechio&show_icons=true&theme=date_night"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilobbonvechio&layout=compact&theme=date_night"/>
+<!-- Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=murilobbonvechio&theme=date_night&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murilobbonvechio&theme=date_night&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilobbonvechio&theme=date_night&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
 <div style="display: inline_block"><br>
